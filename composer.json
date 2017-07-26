@@ -1,0 +1,12 @@
+{
+    "require": {
+        "endroid/qrcode": "^1.9"
+    },
+    "autoload":{
+
+        "prs-4":{
+
+            "Beltrao\\":"project/"
+        }
+    }
+}
